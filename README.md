@@ -1,4 +1,6 @@
 # Time-series-forecasting-for-population-of-scotland
+
+# python dependencies versions
 ### Pandas 1.3.4
 ### numpy 1.23.5
 ### matplotlib 3.4.3
