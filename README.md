@@ -10,6 +10,8 @@
 #
 # dataset
 ### data is retrieved from the National Records of Scotland. Data wrangling and prerprocessing was applied to extract the total number of population, births, deaths and migration. The data used is open source data https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme
+#### pop.xlsx is the merged data of population after changing the variables types in powerbi
+#### final dataset is obtained at final stage of the code, and contains the forecasted population and used for interactive dashboard
 
 ### data was transformed to sequential form
 ### LSTM RNN was used for forecasting
