@@ -13,3 +13,5 @@
 
 ### data was transformed to sequential form
 ### LSTM RNN was used for forecasting
+
+# Powerbi interactive dashboard is created from the forecasted data for presentation
