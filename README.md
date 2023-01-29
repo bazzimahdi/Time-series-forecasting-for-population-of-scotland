@@ -8,3 +8,6 @@
 
 # dataset
 ### data is retrieved from the National Records of Scotland. Data wrangling and prerprocessing was applied to extract the total number of population, births, deaths and migration. The data used is open source data
+
+### data was transformed to sequential form
+### LSTM RNN was used for forecasting
